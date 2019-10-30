@@ -6,6 +6,9 @@
 
 **tl;dr**: Programming where the execution environment is resource constrained (latency, throughput, memory, disk, bandwidth, etc.) and relied upon for correctness and security by other systems or developers. Typically, knowledge of the hardware and use of systems programming languages (C, C++, Rust, etc.) is necessary to achieve acceptable levels of performance and security. 
 
+## How can I contribute to this guide?
+Is something unclear? Want to expand on something or make a change? This guide is open source! Make an issue or a PR and we can all refine this together. 
+
 ## What are some areas of software that fit into systems programming?
 Definitions may vary depending on who you ask. The following are considered to be systems programming areas of development, some more so than others:
 - Operating systems
