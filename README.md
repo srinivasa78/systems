@@ -57,7 +57,8 @@ Definitions may vary depending on who you ask. The following are considered to b
 - [Richard Fabian "Data-Oriented Design"](http://www.dataorienteddesign.com/dodbook/)
 - [Dawid Ciężarkiewicz "The faster you unlearn OOP, the better for you and your software"](https://dpc.pw/the-faster-you-unlearn-oop-the-better-for-you-and-your-software)
 
-### Hashtables
+### Data Structures & Algorithms
+- [E-Maxx "Competitive Programming Algorithms"](https://cp-algorithms.com)
 - [Matt Kulukundis “Designing a Fast, Efficient, Cache-friendly Hash Table, Step by Step”](https://youtu.be/ncHmEUmJZf4)
 - [Malte Skarupke "You Can Do Better than std::unordered_map"](https://youtu.be/M2fKMP47slQ)
 - [Malte Skarupke "I wrote the fastest hashtable"](https://probablydance.com/2017/02/26/i-wrote-the-fastest-hashtable/)
