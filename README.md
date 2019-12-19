@@ -47,6 +47,7 @@ Definitions may vary depending on who you ask. The following are considered to b
 - [Bryan Cantrill "Is It Time to Rewrite the Operating System in Rust?"](https://youtu.be/HgtRAbE1nBM)
 
 ### Security
+- [LiveOverflow "Binary Exploitation / Memory Corruption](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
 - [Chandler Carruth “Spectre: Secrets, Side-Channels, Sandboxes, and Security”](https://youtu.be/_f7O3IfIR2k)
 - [Chandler Carruth “Garbage In, Garbage Out: Arguing about Undefined Behavior..."](https://youtu.be/yG1OZ69H_-o)
 
