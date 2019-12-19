@@ -38,3 +38,47 @@ Definitions may vary depending on who you ask. The following are considered to b
 5. (388) You should develop a strong security-concious mindset, and a healthy sense of skepticism around the security of software (and hardware) in general. You should know that all complex systems have vulnerabilities, and that an attacker must be assumed to have full knowledge of an implementation (only keys are secure). In high risk environments, software systems often can't trust each other, themselves, or even the hardware they are running on, so there are tradeoffs to be made around what mitigations are worth implementing and what is not part of a threat model. You should be comfortable with application security issues like buffer overflows, mitigations like ASLR, stack canaries, write xor execute and other memory protections, and counter-attack techniques like NOP-sledding, return to libc, and ROP. You should know the layout of a stack frame and how a buffer overread or overwrite might leak information or allow arbitrary control of execution. You should also be comfortable with network security issues and with how an attacker can compromise systems and move through a network. Finally, you should be aware of recent hardware security issues like Spectre/Meltdown, Rowhammer, timing attacks, and information leakage over airgaps through things like heat, fan noise, coil whine, etc. 
 
 6. To be written: (multithreading and synchronization, virtual memory, data locality, memory allocation, context switching, task scheduling and preemption, interrupts, file systems, networking, avoidance of shared mutable state, the advantages of thinking like a functional programmer, etc.)
+
+## What are some good articles, books and talks to learn more?
+### Operating Systems
+- [LiveOverflow "How Do Linux Kernel Drivers Work?"](https://youtu.be/juGNPLdjLH4)
+- [OSDev wiki](https://wiki.osdev.org/Main_Page)
+- [Philipp Oppermann "Writing an OS in Rust"](https://os.phil-opp.com)
+- [Bryan Cantrill "Is It Time to Rewrite the Operating System in Rust?"](https://youtu.be/HgtRAbE1nBM)
+
+### Security
+- [Chandler Carruth “Spectre: Secrets, Side-Channels, Sandboxes, and Security”](https://youtu.be/_f7O3IfIR2k)
+- [Chandler Carruth “Garbage In, Garbage Out: Arguing about Undefined Behavior..."](https://youtu.be/yG1OZ69H_-o)
+
+### Data Oriented Design
+- [Stoyan Nikolov “OOP Is Dead, Long Live Data-oriented Design”](https://youtu.be/yy8jQgmhbAU)
+- [Mike Acton "Data-Oriented Design and C++"](https://youtu.be/rX0ItVEVjHc)
+- [Mike Acton "Building a Data-Oriented Future"](https://youtu.be/u8B3j8rqYMw)
+- [Richard Fabian "Data-Oriented Design"](http://www.dataorienteddesign.com/dodbook/)
+- [Dawid Ciężarkiewicz "The faster you unlearn OOP, the better for you and your software"](https://dpc.pw/the-faster-you-unlearn-oop-the-better-for-you-and-your-software)
+
+### Hashtables
+- [Matt Kulukundis “Designing a Fast, Efficient, Cache-friendly Hash Table, Step by Step”](https://youtu.be/ncHmEUmJZf4)
+- [Malte Skarupke "You Can Do Better than std::unordered_map"](https://youtu.be/M2fKMP47slQ)
+- [Malte Skarupke "I wrote the fastest hashtable"](https://probablydance.com/2017/02/26/i-wrote-the-fastest-hashtable/)
+- [Malte Skarupke "A new fast hash table in response to Google’s new fast hash table"](https://probablydance.com/2018/05/28/a-new-fast-hash-table-in-response-to-googles-new-fast-hash-table/)
+- [Malte Skarupke "Fibonacci Hashing: The Optimization that the World Forgot"](https://probablydance.com/2018/06/16/fibonacci-hashing-the-optimization-that-the-world-forgot-or-a-better-alternative-to-integer-modulo/)
+
+### Performance
+- [Daniel Lemire's blog](https://lemire.me/blog/)
+- [Game Programming Patterns "Data Locality"](https://gameprogrammingpatterns.com/data-locality.html)
+- [Andrei Alexandrescu “Speed Is Found In The Minds of People"](https://youtu.be/FJJTYQYB1JQ)
+- [Jason Turner “Practical Performance Practices"](https://youtu.be/uzF4u9KgUWI)
+- [Chandler Carruth “High Performance Code 201: Hybrid Data Structures"](https://youtu.be/vElZc6zSIXM)
+- [Chandler Carruth "Efficiency with Algorithms, Performance with Data Structures"](https://youtu.be/fHNmRkzxHWs)
+- [Chandler Carruth “There Are No Zero-cost Abstractions”](https://youtu.be/rHIkrotSwcc)
+- [Chandler Carruth “Going Nowhere Faster”](https://youtu.be/2EWejmkKlxs)
+- [Chandler Carruth "Tuning C++: Benchmarks, and CPUs, and Compilers! Oh My!"](https://youtu.be/nXaxk27zwlk)
+- [Andrei Alexandrescu "Optimization Tips - Mo' Hustle Mo' Problems"](https://youtu.be/Qq_WaiwzOtI)
+- [Timur Doumler “Want fast C++? Know your hardware!"](https://youtu.be/BP6NxVxDQIs)
+- [Joshua Liebow-Feeser "Move fast and don't break things: High-performance networking in Rust"](https://youtu.be/UfMOOxOGCmA)
+- [Alan Talbot “Moving Faster: Everyday efficiency in modern C++”](https://youtu.be/EovBkh9wDnM)
+
+### Compilers
+- [Matt Godbolt “The Bits Between the Bits: How We Get to main()”](https://youtu.be/dOfucXtyEsU)
+- [Matt Godbolt “What Has My Compiler Done for Me Lately? Unbolting the Compiler's Lid”](https://youtu.be/bSkpMdDe4g4)
