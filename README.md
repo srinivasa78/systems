@@ -87,3 +87,7 @@ The following bits correspond to my experiences in courses at University of Mich
 ### Compilers
 - [Matt Godbolt “The Bits Between the Bits: How We Get to main()”](https://youtu.be/dOfucXtyEsU)
 - [Matt Godbolt “What Has My Compiler Done for Me Lately? Unbolting the Compiler's Lid”](https://youtu.be/bSkpMdDe4g4)
+
+### Programming Languages
+- [Cliff L. Biffle "Prefer Rust to C/C++ for new code."](http://cliffle.com/blog/prefer-rust/)
+- [Cliff L. Biffle "Learn Rust the Dangerous Way"](http://cliffle.com/p/dangerust/)
