@@ -45,6 +45,7 @@ The following bits correspond to my experiences in courses at University of Mich
 ## What are some good articles, books and talks to learn more?
 ### Operating Systems
 - [LiveOverflow "How Do Linux Kernel Drivers Work?"](https://youtu.be/juGNPLdjLH4)
+- [MIT CSAIL "xv6: a simple, Unix-like teaching operating system"](https://pdos.csail.mit.edu/6.828/2014/xv6.html)
 - [OSDev wiki](https://wiki.osdev.org/Main_Page)
 - [Philipp Oppermann "Writing an OS in Rust"](https://os.phil-opp.com)
 - [Bryan Cantrill "Is It Time to Rewrite the Operating System in Rust?"](https://youtu.be/HgtRAbE1nBM)
@@ -53,6 +54,7 @@ The following bits correspond to my experiences in courses at University of Mich
 - [LiveOverflow "Binary Exploitation / Memory Corruption](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
 - [Chandler Carruth “Spectre: Secrets, Side-Channels, Sandboxes, and Security”](https://youtu.be/_f7O3IfIR2k)
 - [Chandler Carruth “Garbage In, Garbage Out: Arguing about Undefined Behavior..."](https://youtu.be/yG1OZ69H_-o)
+- [Arun Thomas "Building Secure Systems using RISC V and Rust"](https://youtu.be/i0TmZ2vuzbs)
 
 ### Data Oriented Design
 - [Stoyan Nikolov “OOP Is Dead, Long Live Data-oriented Design”](https://youtu.be/yy8jQgmhbAU)
