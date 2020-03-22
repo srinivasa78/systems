@@ -50,6 +50,10 @@ The following bits correspond to my experiences in courses at University of Mich
 - [Philipp Oppermann "Writing an OS in Rust"](https://os.phil-opp.com)
 - [Bryan Cantrill "Is It Time to Rewrite the Operating System in Rust?"](https://youtu.be/HgtRAbE1nBM)
 
+### Memory Models
+- [Niall Douglas "Elsewhere Memory (C++20 Abstract Machine) + Virtual Memory"](https://youtu.be/Djw6aY0VhwI)
+- [Ulrich Drepper "What Every Programmer Should Know About Memory"](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
+
 ### Security
 - [LiveOverflow "Binary Exploitation / Memory Corruption](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
 - [Chandler Carruth “Spectre: Secrets, Side-Channels, Sandboxes, and Security”](https://youtu.be/_f7O3IfIR2k)
