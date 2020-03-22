@@ -53,15 +53,16 @@ The following bits correspond to my experiences in courses at University of Mich
 ### Memory Models
 - [Niall Douglas "Elsewhere Memory (C++20 Abstract Machine) + Virtual Memory"](https://youtu.be/Djw6aY0VhwI)
 - [Ulrich Drepper "What Every Programmer Should Know About Memory"](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
+- [Patrice Roy "Which Machine Am I Coding To?"](https://youtu.be/KoqY50HSuQg)
 
 ### Security
 - [LiveOverflow "Binary Exploitation / Memory Corruption](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
-- [Chandler Carruth “Spectre: Secrets, Side-Channels, Sandboxes, and Security”](https://youtu.be/_f7O3IfIR2k)
-- [Chandler Carruth “Garbage In, Garbage Out: Arguing about Undefined Behavior..."](https://youtu.be/yG1OZ69H_-o)
+- [Chandler Carruth "Spectre: Secrets, Side-Channels, Sandboxes, and Security"](https://youtu.be/_f7O3IfIR2k)
+- [Chandler Carruth "Garbage In, Garbage Out: Arguing about Undefined Behavior..."](https://youtu.be/yG1OZ69H_-o)
 - [Arun Thomas "Building Secure Systems using RISC V and Rust"](https://youtu.be/i0TmZ2vuzbs)
 
 ### Data Oriented Design
-- [Stoyan Nikolov “OOP Is Dead, Long Live Data-oriented Design”](https://youtu.be/yy8jQgmhbAU)
+- [Stoyan Nikolov "OOP Is Dead, Long Live Data-oriented Design"](https://youtu.be/yy8jQgmhbAU)
 - [Mike Acton "Data-Oriented Design and C++"](https://youtu.be/rX0ItVEVjHc)
 - [Mike Acton "Building a Data-Oriented Future"](https://youtu.be/u8B3j8rqYMw)
 - [Richard Fabian "Data-Oriented Design"](http://www.dataorienteddesign.com/dodbook/)
@@ -69,7 +70,7 @@ The following bits correspond to my experiences in courses at University of Mich
 
 ### Data Structures & Algorithms
 - [E-Maxx "Competitive Programming Algorithms"](https://cp-algorithms.com)
-- [Matt Kulukundis “Designing a Fast, Efficient, Cache-friendly Hash Table, Step by Step”](https://youtu.be/ncHmEUmJZf4)
+- [Matt Kulukundis "Designing a Fast, Efficient, Cache-friendly Hash Table, Step by Step"](https://youtu.be/ncHmEUmJZf4)
 - [Malte Skarupke "You Can Do Better than std::unordered_map"](https://youtu.be/M2fKMP47slQ)
 - [Malte Skarupke "I wrote the fastest hashtable"](https://probablydance.com/2017/02/26/i-wrote-the-fastest-hashtable/)
 - [Malte Skarupke "A new fast hash table in response to Google’s new fast hash table"](https://probablydance.com/2018/05/28/a-new-fast-hash-table-in-response-to-googles-new-fast-hash-table/)
@@ -78,21 +79,21 @@ The following bits correspond to my experiences in courses at University of Mich
 ### Performance
 - [Daniel Lemire's blog](https://lemire.me/blog/)
 - [Game Programming Patterns "Data Locality"](https://gameprogrammingpatterns.com/data-locality.html)
-- [Andrei Alexandrescu “Speed Is Found In The Minds of People"](https://youtu.be/FJJTYQYB1JQ)
-- [Jason Turner “Practical Performance Practices"](https://youtu.be/uzF4u9KgUWI)
-- [Chandler Carruth “High Performance Code 201: Hybrid Data Structures"](https://youtu.be/vElZc6zSIXM)
+- [Andrei Alexandrescu "Speed Is Found In The Minds of People"](https://youtu.be/FJJTYQYB1JQ)
+- [Jason Turner "Practical Performance Practices"](https://youtu.be/uzF4u9KgUWI)
+- [Chandler Carruth "High Performance Code 201: Hybrid Data Structures"](https://youtu.be/vElZc6zSIXM)
 - [Chandler Carruth "Efficiency with Algorithms, Performance with Data Structures"](https://youtu.be/fHNmRkzxHWs)
-- [Chandler Carruth “There Are No Zero-cost Abstractions”](https://youtu.be/rHIkrotSwcc)
-- [Chandler Carruth “Going Nowhere Faster”](https://youtu.be/2EWejmkKlxs)
+- [Chandler Carruth "There Are No Zero-cost Abstractions"](https://youtu.be/rHIkrotSwcc)
+- [Chandler Carruth "Going Nowhere Faster"](https://youtu.be/2EWejmkKlxs)
 - [Chandler Carruth "Tuning C++: Benchmarks, and CPUs, and Compilers! Oh My!"](https://youtu.be/nXaxk27zwlk)
 - [Andrei Alexandrescu "Optimization Tips - Mo' Hustle Mo' Problems"](https://youtu.be/Qq_WaiwzOtI)
-- [Timur Doumler “Want fast C++? Know your hardware!"](https://youtu.be/BP6NxVxDQIs)
+- [Timur Doumler "Want fast C++? Know your hardware!"](https://youtu.be/BP6NxVxDQIs)
 - [Joshua Liebow-Feeser "Move fast and don't break things: High-performance networking in Rust"](https://youtu.be/UfMOOxOGCmA)
-- [Alan Talbot “Moving Faster: Everyday efficiency in modern C++”](https://youtu.be/EovBkh9wDnM)
+- [Alan Talbot "Moving Faster: Everyday efficiency in modern C++"](https://youtu.be/EovBkh9wDnM)
 
 ### Compilers
-- [Matt Godbolt “The Bits Between the Bits: How We Get to main()”](https://youtu.be/dOfucXtyEsU)
-- [Matt Godbolt “What Has My Compiler Done for Me Lately? Unbolting the Compiler's Lid”](https://youtu.be/bSkpMdDe4g4)
+- [Matt Godbolt "The Bits Between the Bits: How We Get to main()"](https://youtu.be/dOfucXtyEsU)
+- [Matt Godbolt "What Has My Compiler Done for Me Lately? Unbolting the Compiler's Lid"](https://youtu.be/bSkpMdDe4g4)
 
 ### Programming Languages
 - [Cliff L. Biffle "Prefer Rust to C/C++ for new code."](http://cliffle.com/blog/prefer-rust/)
