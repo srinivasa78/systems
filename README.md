@@ -52,6 +52,7 @@ The following bits correspond to my experiences in courses at University of Mich
 - [Bryan Cantrill "The Soul of a New Machine: Rethinking the Computer"](https://youtu.be/vvZA9n3e5pc)
 
 ### Memory Models
+- [Herb Sutter "atomic Weapons: The C++ Memory Model and Modern Hardware"](https://herbsutter.com/2013/02/11/atomic-weapons-the-c-memory-model-and-modern-hardware/)
 - [Niall Douglas "Elsewhere Memory (C++20 Abstract Machine) + Virtual Memory"](https://youtu.be/Djw6aY0VhwI)
 - [Ulrich Drepper "What Every Programmer Should Know About Memory"](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
 - [Patrice Roy "Which Machine Am I Coding To?"](https://youtu.be/KoqY50HSuQg)
