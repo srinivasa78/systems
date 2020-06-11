@@ -1,4 +1,4 @@
-# Guide to Systems Programming
+# Systems Programming
 ## What is systems programming?
 > [Systems Programming](https://en.wikipedia.org/wiki/Systems_programming), or system programming, is the activity of programming computer system software. The primary distinguishing characteristic of systems programming when compared to application programming is that application programming aims to produce software which provides services to the user directly (e.g. word processor), whereas systems programming aims to produce software and software platforms which provide services to other software, are performance constrained, or both (e.g. operating systems, computational science applications, game engines, industrial automation, and software as a service applications).
 >
