@@ -55,6 +55,7 @@ The following bits correspond to my experiences in courses at University of Mich
 - [Herb Sutter "atomic Weapons: The C++ Memory Model and Modern Hardware"](https://herbsutter.com/2013/02/11/atomic-weapons-the-c-memory-model-and-modern-hardware/)
 - [Hans Boehm "Using weakly ordered C++ atomics correctly"](https://www.youtube.com/watch?v=M15UKpNlpeM)
 - [JF Bastien "No Sane Compiler Would Optimize Atomics"](https://www.youtube.com/watch?v=IB57wIf9W1k)
+- [Paul E. McKenney "C++ Atomics: The Sad Story of memory_order_consume: A Happy Ending At Last?"](https://www.youtube.com/watch?v=ZrNQKpOypqU)
 - [Niall Douglas "Elsewhere Memory (C++20 Abstract Machine) + Virtual Memory"](https://youtu.be/Djw6aY0VhwI)
 - [Ulrich Drepper "What Every Programmer Should Know About Memory"](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
 - [Patrice Roy "Which Machine Am I Coding To?"](https://youtu.be/KoqY50HSuQg)
