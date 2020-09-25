@@ -100,6 +100,7 @@ Everyone's path will be different. This is not a list of requirements, but rathe
 ### Compilers
 - [Matt Godbolt "The Bits Between the Bits: How We Get to main()"](https://youtu.be/dOfucXtyEsU)
 - [Matt Godbolt "What Has My Compiler Done for Me Lately? Unbolting the Compiler's Lid"](https://youtu.be/bSkpMdDe4g4)
+- [Bob Steagall "Back to Basics: The Structure of a Program"](https://youtu.be/3KoXeegncrs)
 
 ### Programming Languages
 - [Cliff L. Biffle "Prefer Rust to C/C++ for new code."](http://cliffle.com/blog/prefer-rust/)
