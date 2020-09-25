@@ -51,6 +51,9 @@ Everyone's path will be different. This is not a list of requirements, but rathe
 - [Bryan Cantrill "Is It Time to Rewrite the Operating System in Rust?"](https://youtu.be/HgtRAbE1nBM)
 - [Bryan Cantrill "The Soul of a New Machine: Rethinking the Computer"](https://youtu.be/vvZA9n3e5pc)
 
+### Concurrency
+- [Filip Pizlo "Locking in WebKit"](https://webkit.org/blog/6161/locking-in-webkit/)
+
 ### Memory Models
 - [Herb Sutter "atomic Weapons: The C++ Memory Model and Modern Hardware"](https://herbsutter.com/2013/02/11/atomic-weapons-the-c-memory-model-and-modern-hardware/)
 - [Hans Boehm "Using weakly ordered C++ atomics correctly"](https://www.youtube.com/watch?v=M15UKpNlpeM)
