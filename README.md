@@ -59,6 +59,7 @@ Everyone's path will be different. This is not a list of requirements, but rathe
 - [Niall Douglas "Elsewhere Memory (C++20 Abstract Machine) + Virtual Memory"](https://youtu.be/Djw6aY0VhwI)
 - [Ulrich Drepper "What Every Programmer Should Know About Memory"](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
 - [Patrice Roy "Which Machine Am I Coding To?"](https://youtu.be/KoqY50HSuQg)
+- [Bob Steagall "Back to Basics: The Abstract Machine"](https://youtu.be/ZAji7PkXaKY)
 
 ### Security
 - [LiveOverflow "Binary Exploitation / Memory Corruption](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
@@ -103,3 +104,4 @@ Everyone's path will be different. This is not a list of requirements, but rathe
 ### Programming Languages
 - [Cliff L. Biffle "Prefer Rust to C/C++ for new code."](http://cliffle.com/blog/prefer-rust/)
 - [Cliff L. Biffle "Learn Rust the Dangerous Way"](http://cliffle.com/p/dangerust/)
+
