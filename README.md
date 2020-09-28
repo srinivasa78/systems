@@ -109,3 +109,4 @@ Everyone's path will be different. This is not a list of requirements, but rathe
 - [Cliff L. Biffle "Prefer Rust to C/C++ for new code."](http://cliffle.com/blog/prefer-rust/)
 - [Cliff L. Biffle "Learn Rust the Dangerous Way"](http://cliffle.com/p/dangerust/)
 - [Alexis King "Parse, don't validate"](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
+- [Alexis King "No, dynamic type systems are not inherently more open"](https://lexi-lambda.github.io/blog/2020/01/19/no-dynamic-type-systems-are-not-inherently-more-open/)
