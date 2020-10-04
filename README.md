@@ -63,6 +63,7 @@ Everyone's path will be different. This is not a list of requirements, but rathe
 - [Ulrich Drepper "What Every Programmer Should Know About Memory"](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
 - [Patrice Roy "Which Machine Am I Coding To?"](https://youtu.be/KoqY50HSuQg)
 - [Bob Steagall "Back to Basics: The Abstract Machine"](https://youtu.be/ZAji7PkXaKY)
+- [Ralf Jung ""What The Hardware Does" is not What Your Program Does: Uninitialized Memory"](https://www.ralfj.de/blog/2019/07/14/uninit.html)
 
 ### Security
 - [LiveOverflow "Binary Exploitation / Memory Corruption](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
