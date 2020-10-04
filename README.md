@@ -62,7 +62,7 @@ Everyone's path will be different. This is not a list of requirements, but rathe
 - [Niall Douglas "Elsewhere Memory (C++20 Abstract Machine) + Virtual Memory"](https://youtu.be/Djw6aY0VhwI)
 - [Ulrich Drepper "What Every Programmer Should Know About Memory"](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
 - [Patrice Roy "Which Machine Am I Coding To?"](https://youtu.be/KoqY50HSuQg)
-- [Bob Steagall "Back to Basics: The Abstract Machine"](https://youtu.be/ZAji7PkXaKY)
+- [Bob Steagall "The Abstract Machine"](https://youtu.be/ZAji7PkXaKY)
 - [Ralf Jung ""What The Hardware Does" is not What Your Program Does: Uninitialized Memory"](https://www.ralfj.de/blog/2019/07/14/uninit.html)
 
 ### Security
@@ -87,6 +87,7 @@ Everyone's path will be different. This is not a list of requirements, but rathe
 - [Malte Skarupke "Fibonacci Hashing: The Optimization that the World Forgot"](https://probablydance.com/2018/06/16/fibonacci-hashing-the-optimization-that-the-world-forgot-or-a-better-alternative-to-integer-modulo/)
 
 ### Performance
+- [Emery Berger "Performance Matters"](https://www.youtube.com/watch?v=koTf7u0v41o)
 - [Daniel Lemire's blog](https://lemire.me/blog/)
 - [Game Programming Patterns "Data Locality"](https://gameprogrammingpatterns.com/data-locality.html)
 - [Andrei Alexandrescu "Speed Is Found In The Minds of People"](https://youtu.be/FJJTYQYB1JQ)
@@ -104,7 +105,7 @@ Everyone's path will be different. This is not a list of requirements, but rathe
 ### Compilers
 - [Matt Godbolt "The Bits Between the Bits: How We Get to main()"](https://youtu.be/dOfucXtyEsU)
 - [Matt Godbolt "What Has My Compiler Done for Me Lately? Unbolting the Compiler's Lid"](https://youtu.be/bSkpMdDe4g4)
-- [Bob Steagall "Back to Basics: The Structure of a Program"](https://youtu.be/3KoXeegncrs)
+- [Bob Steagall "The Structure of a Program"](https://youtu.be/3KoXeegncrs)
 
 ### Programming Languages
 - [Cliff L. Biffle "Prefer Rust to C/C++ for new code."](http://cliffle.com/blog/prefer-rust/)
