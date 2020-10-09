@@ -50,6 +50,7 @@ Everyone's path will be different. This is not a list of requirements, but rathe
 - [Philipp Oppermann "Writing an OS in Rust"](https://os.phil-opp.com)
 - [Bryan Cantrill "Is It Time to Rewrite the Operating System in Rust?"](https://youtu.be/HgtRAbE1nBM)
 - [Bryan Cantrill "The Soul of a New Machine: Rethinking the Computer"](https://youtu.be/vvZA9n3e5pc)
+- [Dan Saks "Memory-Mapped Devices as Objects"](https://youtu.be/uwzuAGtAEFk)
 
 ### Concurrency
 - [Filip Pizlo "Locking in WebKit"](https://webkit.org/blog/6161/locking-in-webkit/)
