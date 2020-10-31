@@ -53,6 +53,7 @@ Everyone's path will be different. This is not a list of requirements, but rathe
 - [Dan Saks "Memory-Mapped Devices as Objects"](https://youtu.be/uwzuAGtAEFk)
 
 ### Concurrency
+- [Arthur O'Dwyer "Concurrency"](https://youtu.be/F6Ipn7gCOsY)
 - [Filip Pizlo "Locking in WebKit"](https://webkit.org/blog/6161/locking-in-webkit/)
 
 ### Memory Models
