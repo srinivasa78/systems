@@ -44,6 +44,7 @@ Everyone's path will be different. This is not a list of requirements, but rathe
 
 ## What are some good articles, books and talks to learn more?
 ### Operating Systems
+- [Geoffrey Lee and Charles Gray "L4/Darwin: Evolving UNIX"](https://ts.data61.csiro.au/publications/papers/Lee_Gray_06.pdf)
 - [LiveOverflow "How Do Linux Kernel Drivers Work?"](https://youtu.be/juGNPLdjLH4)
 - [MIT CSAIL "xv6: a simple, Unix-like teaching operating system"](https://pdos.csail.mit.edu/6.828/2014/xv6.html)
 - [OSDev wiki](https://wiki.osdev.org/Main_Page)
