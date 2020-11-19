@@ -68,6 +68,10 @@ Everyone's path will be different. This is not a list of requirements, but rathe
 - [Bob Steagall "The Abstract Machine"](https://youtu.be/ZAji7PkXaKY)
 - [Ralf Jung ""What The Hardware Does" is not What Your Program Does: Uninitialized Memory"](https://www.ralfj.de/blog/2019/07/14/uninit.html)
 
+## Networking
+- [Cory Benfield "Building Protocol Libraries The Right Way"](https://youtu.be/7cC3_jGwl_U)
+- [Joshua Liebow-Feeser "Move fast and don't break things: High-performance networking in Rust"](https://youtu.be/UfMOOxOGCmA)
+
 ### Security
 - [LiveOverflow "Binary Exploitation / Memory Corruption](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
 - [Chandler Carruth "Spectre: Secrets, Side-Channels, Sandboxes, and Security"](https://youtu.be/_f7O3IfIR2k)
@@ -102,7 +106,6 @@ Everyone's path will be different. This is not a list of requirements, but rathe
 - [Chandler Carruth "Tuning C++: Benchmarks, and CPUs, and Compilers! Oh My!"](https://youtu.be/nXaxk27zwlk)
 - [Andrei Alexandrescu "Optimization Tips - Mo' Hustle Mo' Problems"](https://youtu.be/Qq_WaiwzOtI)
 - [Timur Doumler "Want fast C++? Know your hardware!"](https://youtu.be/BP6NxVxDQIs)
-- [Joshua Liebow-Feeser "Move fast and don't break things: High-performance networking in Rust"](https://youtu.be/UfMOOxOGCmA)
 - [Alan Talbot "Moving Faster: Everyday efficiency in modern C++"](https://youtu.be/EovBkh9wDnM)
 
 ### Compilers
