@@ -56,6 +56,7 @@ Everyone's path will be different. This is not a list of requirements, but rathe
 ### Concurrency
 - [Arthur O'Dwyer "Concurrency"](https://youtu.be/F6Ipn7gCOsY)
 - [Filip Pizlo "Locking in WebKit"](https://webkit.org/blog/6161/locking-in-webkit/)
+- [Jon Gjengset "A Cool Concurrency Primitive in Rust"](https://youtu.be/eLNAMEoKAAc)
 
 ### Memory Models
 - [Herb Sutter "atomic Weapons: The C++ Memory Model and Modern Hardware"](https://herbsutter.com/2013/02/11/atomic-weapons-the-c-memory-model-and-modern-hardware/)
