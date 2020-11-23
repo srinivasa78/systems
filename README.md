@@ -58,6 +58,9 @@ Everyone's path will be different. This is not a list of requirements, but rathe
 - [Filip Pizlo "Locking in WebKit"](https://webkit.org/blog/6161/locking-in-webkit/)
 - [Jon Gjengset "A Cool Concurrency Primitive in Rust"](https://youtu.be/eLNAMEoKAAc)
 
+### Distributed Systems
+- [Tim Berglund "Distributed Systems in One Lesson"](https://youtu.be/Y6Ev8GIlbxc)
+
 ### Memory Models
 - [Herb Sutter "atomic Weapons: The C++ Memory Model and Modern Hardware"](https://herbsutter.com/2013/02/11/atomic-weapons-the-c-memory-model-and-modern-hardware/)
 - [Hans Boehm "Using weakly ordered C++ atomics correctly"](https://www.youtube.com/watch?v=M15UKpNlpeM)
