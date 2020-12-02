@@ -118,6 +118,7 @@ Everyone's path will be different. This is not a list of requirements, but rathe
 - [Bob Steagall "The Structure of a Program"](https://youtu.be/3KoXeegncrs)
 
 ### Programming Languages
+- [Robert C. Seacord "Effective C: An Introduction to Professional C Programming"](https://nostarch.com/Effective_C)
 - [Cliff L. Biffle "Prefer Rust to C/C++ for new code."](http://cliffle.com/blog/prefer-rust/)
 - [Cliff L. Biffle "Learn Rust the Dangerous Way"](http://cliffle.com/p/dangerust/)
 - [Alexis King "Parse, don't validate"](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
