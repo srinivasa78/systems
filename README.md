@@ -72,7 +72,7 @@ Everyone's path will be different. This is not a list of requirements, but rathe
 - [Bob Steagall "The Abstract Machine"](https://youtu.be/ZAji7PkXaKY)
 - [Ralf Jung ""What The Hardware Does" is not What Your Program Does: Uninitialized Memory"](https://www.ralfj.de/blog/2019/07/14/uninit.html)
 
-## Networking
+### Networking
 - [Cory Benfield "Building Protocol Libraries The Right Way"](https://youtu.be/7cC3_jGwl_U)
 - [Joshua Liebow-Feeser "Move fast and don't break things: High-performance networking in Rust"](https://youtu.be/UfMOOxOGCmA)
 
