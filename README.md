@@ -89,6 +89,9 @@ Everyone's path will be different. This is not a list of requirements, but rathe
 - [Richard Fabian "Data-Oriented Design"](http://www.dataorienteddesign.com/dodbook/)
 - [Dawid Ciężarkiewicz "The faster you unlearn OOP, the better for you and your software"](https://dpc.pw/the-faster-you-unlearn-oop-the-better-for-you-and-your-software)
 
+### Software Architecture
+- [Borislav Stanimirov "No Touchy! A Case Study of Software Architecture with Immutable Objects"](https://youtu.be/ZSrIZW2Hzhk)
+
 ### Data Structures & Algorithms
 - [E-Maxx "Competitive Programming Algorithms"](https://cp-algorithms.com)
 - [Matt Kulukundis "Designing a Fast, Efficient, Cache-friendly Hash Table, Step by Step"](https://youtu.be/ncHmEUmJZf4)
