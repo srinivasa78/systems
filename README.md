@@ -6,16 +6,19 @@ Broadly, developing software that is:
 # What are some resources to learn about systems programming?
 ## Data Structures & Algorithms
 Keywords: asymptotic complexity, array, queue, hash table, search tree, linked list, heap, sorting, binary search, backtracking, graph search, divide and conquer, memoization, string matching
+- ["Open Data Structures"](https://opendatastructures.org)
+- [Thomas Cormen, Charles Leiserson, Ronald Rivest, Clifford Stein "Introduction to Algorithms"](https://mitpress.mit.edu/books/introduction-algorithms-third-edition)
 - [E-Maxx "Competitive Programming Algorithms"](https://cp-algorithms.com)
 
 ## Programming Languages
-- [Robert C. Seacord "Effective C: An Introduction to Professional C Programming"](https://nostarch.com/Effective_C)
-- [Cliff L. Biffle "Prefer Rust to C/C++ for new code."](http://cliffle.com/blog/prefer-rust/)
-- [Cliff L. Biffle "Learn Rust the Dangerous Way"](http://cliffle.com/p/dangerust/)
+- [Robert Seacord "Effective C: An Introduction to Professional C Programming"](https://nostarch.com/Effective_C)
+- [Cliff Biffle "Prefer Rust to C/C++ for new code."](http://cliffle.com/blog/prefer-rust/)
+- [Cliff Biffle "Learn Rust the Dangerous Way"](http://cliffle.com/p/dangerust/)
 - [Ginger Bill "The Fatal Flaw of Ownership Semantics"](http://www.gingerbill.org/article/2020/06/21/the-ownership-semantics-flaw/)
 
 ## Computer Architecture
 Keywords: von Neumann architecture, instruction set architecture, memory hierarchy, endianness, pipelining, branch prediction, out-of-order execution, cache coherence, trap
+- [Vijay Nagarajan, Daniel Sorin, Mark Hill, David Wood "A Primer on Memory Consistency and Cache Coherence"](https://doi.org/10.2200/S00962ED2V01Y201910CAC049)
 - [Bryan Cantrill "The Soul of a New Machine: Rethinking the Computer"](https://youtu.be/vvZA9n3e5pc)
 
 ## Compilers
@@ -34,7 +37,7 @@ Keywords: undefined behavior, implementation-defined behavior, Rust ownership/li
 - [Ulrich Drepper "What Every Programmer Should Know About Memory"](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
 - [Herb Sutter "atomic Weapons: The C++ Memory Model and Modern Hardware"](https://herbsutter.com/2013/02/11/atomic-weapons-the-c-memory-model-and-modern-hardware/)
 - [Hans Boehm "Using weakly ordered C++ atomics correctly"](https://www.youtube.com/watch?v=M15UKpNlpeM)
-- [Paul E. McKenney "C++ Atomics: The Sad Story of memory_order_consume: A Happy Ending At Last?"](https://www.youtube.com/watch?v=ZrNQKpOypqU)
+- [Paul McKenney "C++ Atomics: The Sad Story of memory_order_consume: A Happy Ending At Last?"](https://www.youtube.com/watch?v=ZrNQKpOypqU)
 
 ## Security/Cryptography
 Keywords: threat model, principle of least priviledge, Kerckhoffs's principle, confidentiality, data integrity, authentication, non-repudiation, computational hardness, vulnerabilities, buffer overflow, side-channel attack
@@ -78,6 +81,7 @@ Keywords: multithreading, race condition, synchronization, deadlock, starvation,
 
 ## Functional Programming
 Keywords: referential transparency, algebraic datatypes, lambda expression, recursion, higher order function, persistent data structure, lazy evaluation, category theory
+- [Bartosz Milewski "Category Theory for Programmers"](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
 - [Borislav Stanimirov "No Touchy! A Case Study of Software Architecture with Immutable Objects"](https://youtu.be/ZSrIZW2Hzhk)
 - [Alexis King "Parse, don't validate"](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
 - [Alexis King "No, dynamic type systems are not inherently more open"](https://lexi-lambda.github.io/blog/2020/01/19/no-dynamic-type-systems-are-not-inherently-more-open/)
@@ -90,7 +94,9 @@ Keywords: CAP theorem, consensus, clock synchronization, logical clock, redundan
 ## Operating Systems
 Keywords: scheduling, preemption, context switch, address space, virtual memory, file system, device driver, IPC, virtualization, networking
 - [MIT CSAIL "xv6: a simple, Unix-like teaching operating system"](https://pdos.csail.mit.edu/6.828/2014/xv6.html)
+- [UW-Madison "Operating Systems: Three Easy Pieces"](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+- [Marshall McKusick, George Neville-Neil, Robert Watson "Design and Implementation of the FreeBSD Operating System"](https://www.informit.com/store/design-and-implementation-of-the-freebsd-operating-9780321968975)
 - [OSDev wiki](https://wiki.osdev.org/Main_Page)
 - [Philipp Oppermann "Writing an OS in Rust"](https://os.phil-opp.com)
 - [Bryan Cantrill "Is It Time to Rewrite the Operating System in Rust?"](https://youtu.be/HgtRAbE1nBM)
-- [Geoffrey Lee and Charles Gray "L4/Darwin: Evolving UNIX"](https://ts.data61.csiro.au/publications/papers/Lee_Gray_06.pdf)
+- [Geoffrey Lee, Charles Gray "L4/Darwin: Evolving UNIX"](https://ts.data61.csiro.au/publications/papers/Lee_Gray_06.pdf)
