@@ -15,6 +15,7 @@ Keywords: asymptotic complexity, array, queue, hash table, search tree, linked l
 - [Cliff Biffle "Prefer Rust to C/C++ for new code."](http://cliffle.com/blog/prefer-rust/)
 - [Cliff Biffle "Learn Rust the Dangerous Way"](http://cliffle.com/p/dangerust/)
 - [Ginger Bill "The Fatal Flaw of Ownership Semantics"](http://www.gingerbill.org/article/2020/06/21/the-ownership-semantics-flaw/)
+- [Alexis King "No, dynamic type systems are not inherently more open"](https://lexi-lambda.github.io/blog/2020/01/19/no-dynamic-type-systems-are-not-inherently-more-open/)
 
 ## Computer Architecture
 Keywords: von Neumann architecture, instruction set architecture, memory hierarchy, endianness, pipelining, branch prediction, out-of-order execution, cache coherence, trap
@@ -84,7 +85,6 @@ Keywords: referential transparency, algebraic datatypes, lambda expression, recu
 - [Bartosz Milewski "Category Theory for Programmers"](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
 - [Borislav Stanimirov "No Touchy! A Case Study of Software Architecture with Immutable Objects"](https://youtu.be/ZSrIZW2Hzhk)
 - [Alexis King "Parse, don't validate"](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
-- [Alexis King "No, dynamic type systems are not inherently more open"](https://lexi-lambda.github.io/blog/2020/01/19/no-dynamic-type-systems-are-not-inherently-more-open/)
 
 ## Distributed Systems
 Keywords: CAP theorem, consensus, clock synchronization, logical clock, redundancy, fault tolerance, ACID, eventual consistency, MapReduce
