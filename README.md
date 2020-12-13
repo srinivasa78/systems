@@ -16,6 +16,7 @@ Keywords: asymptotic complexity, array, queue, hash table, search tree, linked l
 - [Cliff Biffle "Learn Rust the Dangerous Way"](http://cliffle.com/p/dangerust/)
 - [Ginger Bill "The Fatal Flaw of Ownership Semantics"](http://www.gingerbill.org/article/2020/06/21/the-ownership-semantics-flaw/)
 - [Alexis King "No, dynamic type systems are not inherently more open"](https://lexi-lambda.github.io/blog/2020/01/19/no-dynamic-type-systems-are-not-inherently-more-open/)
+- [Amos (fasterthanlime) "Aiming for correctness with types"](https://fasterthanli.me/articles/aiming-for-correctness-with-types)
 
 ## Computer Architecture
 Keywords: von Neumann architecture, instruction set architecture, memory hierarchy, endianness, pipelining, branch prediction, out-of-order execution, cache coherence, trap
