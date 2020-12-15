@@ -45,7 +45,6 @@ Keywords: undefined behavior, implementation-defined behavior, Rust ownership/li
 ## Security/Cryptography
 Keywords: threat model, principle of least priviledge, Kerckhoffs's principle, confidentiality, data integrity, authentication, non-repudiation, computational hardness, vulnerabilities, buffer overflow, side-channel attack
 - [Chandler Carruth "Spectre: Secrets, Side-Channels, Sandboxes, and Security"](https://youtu.be/_f7O3IfIR2k)
-- [Ryan Eberhardt "Designing a New Rust Class at Stanford: Safety in Systems Programming"](https://reberhardt.com/blog/2020/10/05/designing-a-new-class-at-stanford-safety-in-systems-programming.html)
 - [LiveOverflow "Binary Exploitation / Memory Corruption](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
 - [Arun Thomas "Building Secure Systems using RISC V and Rust"](https://youtu.be/i0TmZ2vuzbs)
 
@@ -102,3 +101,9 @@ Keywords: scheduling, preemption, context switch, address space, virtual memory,
 - [Philipp Oppermann "Writing an OS in Rust"](https://os.phil-opp.com)
 - [Bryan Cantrill "Is It Time to Rewrite the Operating System in Rust?"](https://youtu.be/HgtRAbE1nBM)
 - [Geoffrey Lee, Charles Gray "L4/Darwin: Evolving UNIX"](https://ts.data61.csiro.au/publications/papers/Lee_Gray_06.pdf)
+
+## Research
+- [Lalith Suresh "Low-level advice for systems research"](https://lalith.in/2020/09/27/Low-Level-Advice-For-Systems-Research/)
+
+## Teaching
+- [Ryan Eberhardt "Designing a New Rust Class at Stanford: Safety in Systems Programming"](https://reberhardt.com/blog/2020/10/05/designing-a-new-class-at-stanford-safety-in-systems-programming.html)
