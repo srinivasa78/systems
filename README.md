@@ -27,6 +27,7 @@ Keywords: von Neumann architecture, instruction set architecture, memory hierarc
 - [Matt Godbolt "The Bits Between the Bits: How We Get to main()"](https://youtu.be/dOfucXtyEsU)
 - [Matt Godbolt "What Has My Compiler Done for Me Lately? Unbolting the Compiler's Lid"](https://youtu.be/bSkpMdDe4g4)
 - [JF Bastien "No Sane Compiler Would Optimize Atomics"](https://www.youtube.com/watch?v=IB57wIf9W1k)
+- [JF Bastien "Just-in-Time Compilation"](https://youtu.be/tWvaSkgVPpA)
 - [Bob Steagall "The Structure of a Program"](https://youtu.be/3KoXeegncrs)
 
 ## Abstract Machine
