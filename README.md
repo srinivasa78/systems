@@ -38,6 +38,7 @@ Keywords: undefined behavior, implementation-defined behavior, Rust ownership/li
 - [Ralf Jung ""What The Hardware Does" is not What Your Program Does: Uninitialized Memory"](https://www.ralfj.de/blog/2019/07/14/uninit.html)
 - [Ralf Jung "Pointers Are Complicated II, or: We need better language specs"](https://www.ralfj.de/blog/2020/12/14/provenance.html)
 - [Ulrich Drepper "What Every Programmer Should Know About Memory"](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
+- [CopperSpice "C++ Memory Model"](https://youtu.be/KgzjxfYaScU)
 - [Herb Sutter "atomic Weapons: The C++ Memory Model and Modern Hardware"](https://herbsutter.com/2013/02/11/atomic-weapons-the-c-memory-model-and-modern-hardware/)
 - [Hans Boehm "Using weakly ordered C++ atomics correctly"](https://www.youtube.com/watch?v=M15UKpNlpeM)
 - [Paul McKenney "C++ Atomics: The Sad Story of memory_order_consume: A Happy Ending At Last?"](https://www.youtube.com/watch?v=ZrNQKpOypqU)
