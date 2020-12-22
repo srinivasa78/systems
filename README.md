@@ -103,6 +103,7 @@ Keywords: scheduling, preemption, context switch, address space, virtual memory,
 - [Philipp Oppermann "Writing an OS in Rust"](https://os.phil-opp.com)
 - [Bryan Cantrill "Is It Time to Rewrite the Operating System in Rust?"](https://youtu.be/HgtRAbE1nBM)
 - [Geoffrey Lee, Charles Gray "L4/Darwin: Evolving UNIX"](https://ts.data61.csiro.au/publications/papers/Lee_Gray_06.pdf)
+- [Alexander van der Grinten "Managarm: A Fully Asynchronous OS Based on Modern C++"](https://youtu.be/BzwpdOpNFpQ)
 
 ## Research
 - [Lalith Suresh "Low-level advice for systems research"](https://lalith.in/2020/09/27/Low-Level-Advice-For-Systems-Research/)
