@@ -4,6 +4,10 @@ Broadly, developing software that is:
 2. Constrained by physical resources of its execution environments.
 
 # What are some resources to learn about systems programming?
+## General
+- [Chris Leary, JF Bastien "TLB hit"](https://tlbh.it)
+- [Oxide Computer Company "On The Metal"](https://oxide.computer/podcast/)
+
 ## Data Structures & Algorithms
 Keywords: asymptotic complexity, array, queue, hash table, search tree, linked list, heap, sorting, binary search, backtracking, graph search, divide and conquer, memoization, string matching
 - ["Open Data Structures"](https://opendatastructures.org)
