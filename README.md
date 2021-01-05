@@ -105,7 +105,7 @@ Keywords: scheduling, preemption, context switch, address space, virtual memory,
 - [Bryan Cantrill "Is It Time to Rewrite the Operating System in Rust?"](https://youtu.be/HgtRAbE1nBM)
 - [Geoffrey Lee, Charles Gray "L4/Darwin: Evolving UNIX"](https://ts.data61.csiro.au/publications/papers/Lee_Gray_06.pdf)
 - [Alexander van der Grinten "Managarm: A Fully Asynchronous OS Based on Modern C++"](https://youtu.be/BzwpdOpNFpQ)
-- [Daniel Bittman, Peter Alvaro, Pankaj Mehra, Darrell D. E. Long, Ethan L. Miller "Twizzler: a Data-Centric {OS} for Non-Volatile Memory"](https://www.usenix.org/conference/atc20/presentation/bittman)
+- [Daniel Bittman, Peter Alvaro, Pankaj Mehra, Darrell D. E. Long, Ethan L. Miller "Twizzler: a Data-Centric OS for Non-Volatile Memory"](https://www.usenix.org/conference/atc20/presentation/bittman)
 
 ## Research
 - [Lalith Suresh "Low-level advice for systems research"](https://lalith.in/2020/09/27/Low-Level-Advice-For-Systems-Research/)
