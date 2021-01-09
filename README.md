@@ -24,6 +24,10 @@ Keywords: asymptotic complexity, array, queue, hash table, search tree, linked l
 
 ## Computer Architecture
 Keywords: von Neumann architecture, instruction set architecture, memory hierarchy, endianness, pipelining, branch prediction, out-of-order execution, cache coherence, trap
+- [John Paul Shen, Mikko H. Lipasti "Modern Processor Design: Fundamentals of Superscalar Processors"](https://www.amazon.com/dp/B00HCLUL5O)
+- [David A. Patterson, John L. Hennessy "Computer Organization and Design RISC-V Edition"](https://www.amazon.com/dp/0128122757)
+- [David A. Patterson, John L. Hennessy "Computer Organization and Design ARM Edition"](https://www.amazon.com/dp/0128017333)
+- [John L. Hennessy, David A. Patterson "Computer Architecture: A Quantitative Approach"](https://www.amazon.com/dp/0128119055)
 - [Vijay Nagarajan, Daniel Sorin, Mark Hill, David Wood "A Primer on Memory Consistency and Cache Coherence"](https://doi.org/10.2200/S00962ED2V01Y201910CAC049)
 - [Bryan Cantrill "The Soul of a New Machine: Rethinking the Computer"](https://youtu.be/vvZA9n3e5pc)
 
