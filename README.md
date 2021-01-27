@@ -91,6 +91,7 @@ Keywords: cache locality, zero-copy, data oriented design, benchmarking, SIMD
 ## Concurrency & Asynchrony
 Keywords: multithreading, race condition, synchronization, deadlock, starvation, linearizability, memory ordering, shared mutable state, fiber, coroutine, async/await
 - [Arthur O'Dwyer "Concurrency"](https://youtu.be/F6Ipn7gCOsY)
+- [Ulrich Drepper "Futexes Are Tricky"](https://akkadia.org/drepper/futex.pdf)
 - [Filip Pizlo "Locking in WebKit"](https://webkit.org/blog/6161/locking-in-webkit/)
 - [Jon Gjengset "A Cool Concurrency Primitive in Rust"](https://youtu.be/eLNAMEoKAAc)
 
@@ -116,6 +117,7 @@ Keywords: scheduling, preemption, context switch, address space, virtual memory,
 - [Geoffrey Lee, Charles Gray "L4/Darwin: Evolving UNIX"](https://ts.data61.csiro.au/publications/papers/Lee_Gray_06.pdf)
 - [Alexander van der Grinten "Managarm: A Fully Asynchronous OS Based on Modern C++"](https://youtu.be/BzwpdOpNFpQ)
 - [Daniel Bittman, Peter Alvaro, Pankaj Mehra, Darrell D. E. Long, Ethan L. Miller "Twizzler: a Data-Centric OS for Non-Volatile Memory"](https://www.usenix.org/conference/atc20/presentation/bittman)
+- [Hubertus Franke, Rusty Russell, Matthew Kirkwood "Fuss, Futexes and Furwocks: Fast Userlevel Locking in Linux"](https://www.kernel.org/doc/ols/2002/ols2002-pages-479-495.pdf)
 
 ## Research
 - [Lalith Suresh "Low-level advice for systems research"](https://lalith.in/2020/09/27/Low-Level-Advice-For-Systems-Research/)
