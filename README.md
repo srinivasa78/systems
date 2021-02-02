@@ -119,6 +119,7 @@ Keywords: scheduling, preemption, context switch, address space, virtual memory,
 - [Daniel Bittman, Peter Alvaro, Pankaj Mehra, Darrell D. E. Long, Ethan L. Miller "Twizzler: a Data-Centric OS for Non-Volatile Memory"](https://www.usenix.org/conference/atc20/presentation/bittman)
 - [Hubertus Franke, Rusty Russell, Matthew Kirkwood "Fuss, Futexes and Furwocks: Fast Userlevel Locking in Linux"](https://www.kernel.org/doc/ols/2002/ols2002-pages-479-495.pdf)
 - [Kevin Boos, Namitha Liyanage, Ramla Ijaz, Lin Zhong "Theseus: an Experiment in Operating System Structure and State Management"](http://kevinaboos.web.rice.edu/docs/theseus_boos_osdi2020.pdf)
+- [Vikram Narayanan, Tianjiao Huang, David Detweiler, Dan Appel, Zhaofeng Li, Gerd Zellweger, Anton Burtsev "RedLeaf: Isolation and Communication in a Safe Operating System"](https://mars-research.github.io/doc/redleaf-osdi20.pdf)
 
 ## Research
 - [Lalith Suresh "Low-level advice for systems research"](https://lalith.in/2020/09/27/Low-Level-Advice-For-Systems-Research/)
