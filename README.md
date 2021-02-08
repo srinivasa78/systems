@@ -120,6 +120,7 @@ Keywords: scheduling, preemption, context switch, address space, virtual memory,
 - [Hubertus Franke, Rusty Russell, Matthew Kirkwood "Fuss, Futexes and Furwocks: Fast Userlevel Locking in Linux"](https://www.kernel.org/doc/ols/2002/ols2002-pages-479-495.pdf)
 - [Kevin Boos, Namitha Liyanage, Ramla Ijaz, Lin Zhong "Theseus: an Experiment in Operating System Structure and State Management"](http://kevinaboos.web.rice.edu/docs/theseus_boos_osdi2020.pdf)
 - [Vikram Narayanan, Tianjiao Huang, David Detweiler, Dan Appel, Zhaofeng Li, Gerd Zellweger, Anton Burtsev "RedLeaf: Isolation and Communication in a Safe Operating System"](https://mars-research.github.io/doc/redleaf-osdi20.pdf)
+- [Pekka Enberg, Ashwin Rao, Sasu Tarkoma "I/O Is Faster Than the CPU – Let’s Partition Resources and Eliminate (Most) OS Abstractions"](http://penberg.org/parakernel-hotos19.pdf)
 
 ## Research
 - [Lalith Suresh "Low-level advice for systems research"](https://lalith.in/2020/09/27/Low-Level-Advice-For-Systems-Research/)
