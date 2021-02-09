@@ -121,6 +121,7 @@ Keywords: scheduling, preemption, context switch, address space, virtual memory,
 - [Kevin Boos, Namitha Liyanage, Ramla Ijaz, Lin Zhong "Theseus: an Experiment in Operating System Structure and State Management"](http://kevinaboos.web.rice.edu/docs/theseus_boos_osdi2020.pdf)
 - [Vikram Narayanan, Tianjiao Huang, David Detweiler, Dan Appel, Zhaofeng Li, Gerd Zellweger, Anton Burtsev "RedLeaf: Isolation and Communication in a Safe Operating System"](https://mars-research.github.io/doc/redleaf-osdi20.pdf)
 - [Pekka Enberg, Ashwin Rao, Sasu Tarkoma "I/O Is Faster Than the CPU – Let’s Partition Resources and Eliminate (Most) OS Abstractions"](http://penberg.org/parakernel-hotos19.pdf)
+- [Irene Zhang, Jing Liu, Amanda Austin, Michael Lowell Roberts, Anirudh Badam "I’m Not Dead Yet! The Role of the Operating System in a Kernel-Bypass Era"](https://www.microsoft.com/en-us/research/publication/im-not-dead-yet-the-role-of-the-operating-system-in-a-kernel-bypass-era/)
 
 ## Research
 - [Lalith Suresh "Low-level advice for systems research"](https://lalith.in/2020/09/27/Low-Level-Advice-For-Systems-Research/)
