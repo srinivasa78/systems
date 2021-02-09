@@ -122,6 +122,9 @@ Keywords: scheduling, preemption, context switch, address space, virtual memory,
 - [Vikram Narayanan, Tianjiao Huang, David Detweiler, Dan Appel, Zhaofeng Li, Gerd Zellweger, Anton Burtsev "RedLeaf: Isolation and Communication in a Safe Operating System"](https://mars-research.github.io/doc/redleaf-osdi20.pdf)
 - [Pekka Enberg, Ashwin Rao, Sasu Tarkoma "I/O Is Faster Than the CPU – Let’s Partition Resources and Eliminate (Most) OS Abstractions"](http://penberg.org/parakernel-hotos19.pdf)
 - [Irene Zhang, Jing Liu, Amanda Austin, Michael Lowell Roberts, Anirudh Badam "I’m Not Dead Yet! The Role of the Operating System in a Kernel-Bypass Era"](https://www.microsoft.com/en-us/research/publication/im-not-dead-yet-the-role-of-the-operating-system-in-a-kernel-bypass-era/)
+- [Dawson R. Engler, M. Frans Kaashoek, James O’Toole Jr. "Exokernel: An Operating System Architecture for Application-Level Resource Management"](https://people.eecs.berkeley.edu/~kubitron/courses/cs262a-F18/handouts/papers/engler95exokernel.pdf)
+- [Simon Peter, Jialin Li, Irene Zhang, Dan R. K. Ports, Doug Woos, Arvind Krishnamurthy, Thomas Anderson, Timothy Roscoe "Arrakis: The Operating System is the Control Plane"](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-peter_simon.pdf)
+- [NICTA, UNSW, Open Kernel Labs, ANU "seL4: Formal Verification of an OS Kernel"](http://www.sigops.org/s/conferences/sosp/2009/papers/klein-sosp09.pdf)
 
 ## Research
 - [Lalith Suresh "Low-level advice for systems research"](https://lalith.in/2020/09/27/Low-Level-Advice-For-Systems-Research/)
