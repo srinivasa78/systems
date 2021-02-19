@@ -126,6 +126,7 @@ Keywords: scheduling, preemption, context switch, address space, virtual memory,
 - [Dawson R. Engler, M. Frans Kaashoek, James O’Toole Jr. "Exokernel: An Operating System Architecture for Application-Level Resource Management"](https://people.eecs.berkeley.edu/~kubitron/courses/cs262a-F18/handouts/papers/engler95exokernel.pdf)
 - [Simon Peter, Jialin Li, Irene Zhang, Dan R. K. Ports, Doug Woos, Arvind Krishnamurthy, Thomas Anderson, Timothy Roscoe "Arrakis: The Operating System is the Control Plane"](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-peter_simon.pdf)
 - [NICTA, UNSW, Open Kernel Labs, ANU "seL4: Formal Verification of an OS Kernel"](http://www.sigops.org/s/conferences/sosp/2009/papers/klein-sosp09.pdf)
+- [Andrew Tanenbaum "MINIX 3: a Modular, Self-Healing POSIX-compatible Operating System"](https://youtu.be/bx3KuE7UjGA)
 
 ## Research
 - [Lalith Suresh "Low-level advice for systems research"](https://lalith.in/2020/09/27/Low-Level-Advice-For-Systems-Research/)
