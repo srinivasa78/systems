@@ -98,6 +98,9 @@ Keywords: multithreading, race condition, synchronization, deadlock, starvation,
 - [Ulrich Drepper "Futexes Are Tricky"](https://akkadia.org/drepper/futex.pdf)
 - [Filip Pizlo "Locking in WebKit"](https://webkit.org/blog/6161/locking-in-webkit/)
 - [Jon Gjengset "A Cool Concurrency Primitive in Rust"](https://youtu.be/eLNAMEoKAAc)
+- [Dale Weiler "Fibers, Oh My!"](https://graphitemaster.github.io/fibers/)
+- [Samy Al Bahra "Concurrency Kit"](http://concurrencykit.org)
+- [libuv Team "libuv"](https://libuv.org)
 
 ## Functional Programming
 Keywords: referential transparency, algebraic datatypes, lambda expression, recursion, higher order function, persistent data structure, lazy evaluation, category theory
