@@ -101,6 +101,7 @@ Keywords: multithreading, race condition, synchronization, deadlock, starvation,
 - [Dale Weiler "Fibers, Oh My!"](https://graphitemaster.github.io/fibers/)
 - [Samy Al Bahra "Concurrency Kit"](http://concurrencykit.org)
 - [libuv Team "libuv"](https://libuv.org)
+- [Austin Clements "Proposal: Non-cooperative goroutine preemption"](https://go.googlesource.com/proposal/+/master/design/24543-non-cooperative-preemption.md)
 
 ## Functional Programming
 Keywords: referential transparency, algebraic datatypes, lambda expression, recursion, higher order function, persistent data structure, lazy evaluation, category theory
