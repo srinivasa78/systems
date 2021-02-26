@@ -113,7 +113,7 @@ Keywords: referential transparency, algebraic datatypes, lambda expression, recu
 Keywords: CAP theorem, consensus, clock synchronization, logical clock, redundancy, fault tolerance, ACID, eventual consistency, MapReduce
 - [Tim Berglund "Distributed Systems in One Lesson"](https://youtu.be/Y6Ev8GIlbxc)
 - [Cory Benfield "Building Protocol Libraries The Right Way"](https://youtu.be/7cC3_jGwl_U)
-- [J.H. Saltzer, D.P. Reeed, D.D. Clark "End-to-End Arguments in System Design"](http://web.mit.edu/Saltzer/www/publications/endtoend/endtoend.pdf)
+- [Jerome Saltzer, David Reeed, David Clark "End-to-End Arguments in System Design"](http://web.mit.edu/Saltzer/www/publications/endtoend/endtoend.pdf)
 
 ## Operating Systems
 Keywords: scheduling, preemption, context switch, address space, virtual memory, file system, device driver, IPC, virtualization, networking
