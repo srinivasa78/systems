@@ -33,12 +33,13 @@ Keywords: von Neumann architecture, instruction set architecture, memory hierarc
 - [David A. Patterson, John L. Hennessy "Computer Organization and Design ARM Edition"](https://www.amazon.com/dp/0128017333)
 - [John L. Hennessy, David A. Patterson "Computer Architecture: A Quantitative Approach"](https://www.amazon.com/dp/0128119055)
 
-## Compilers
+## Compilers, Linkers, Loaders and Runtimes
 - [Matt Godbolt "The Bits Between the Bits: How We Get to main()"](https://youtu.be/dOfucXtyEsU)
 - [Matt Godbolt "What Has My Compiler Done for Me Lately? Unbolting the Compiler's Lid"](https://youtu.be/bSkpMdDe4g4)
 - [JF Bastien "No Sane Compiler Would Optimize Atomics"](https://www.youtube.com/watch?v=IB57wIf9W1k)
 - [JF Bastien "Just-in-Time Compilation"](https://youtu.be/tWvaSkgVPpA)
 - [Bob Steagall "The Structure of a Program"](https://youtu.be/3KoXeegncrs)
+- [Amos (fasterthanlime) "Making our own executable packer"](https://fasterthanli.me/series/making-our-own-executable-packer)
 
 ## Abstract Machine
 Keywords: undefined behavior, implementation-defined behavior, Rust ownership/lifetimes, memory safety, strict aliasing, C/C++ volatile
