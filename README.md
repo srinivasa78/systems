@@ -136,6 +136,7 @@ Keywords: scheduling, preemption, context switch, address space, virtual memory,
 - [Simon Peter, Jialin Li, Irene Zhang, Dan R. K. Ports, Doug Woos, Arvind Krishnamurthy, Thomas Anderson, Timothy Roscoe "Arrakis: The Operating System is the Control Plane"](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-peter_simon.pdf)
 - [NICTA, UNSW, Open Kernel Labs, ANU "seL4: Formal Verification of an OS Kernel"](http://www.sigops.org/s/conferences/sosp/2009/papers/klein-sosp09.pdf)
 - [Andrew Tanenbaum "MINIX 3: a Modular, Self-Healing POSIX-compatible Operating System"](https://youtu.be/bx3KuE7UjGA)
+- [Andrew Baumann, Jonathan Appavoo, Orran Krieger "A fork() in the road"](https://www.microsoft.com/en-us/research/uploads/prod/2019/04/fork-hotos19.pdf)
 
 ## Research
 - [Lalith Suresh "Low-level advice for systems research"](https://lalith.in/2020/09/27/Low-Level-Advice-For-Systems-Research/)
