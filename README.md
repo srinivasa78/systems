@@ -40,6 +40,7 @@ Keywords: von Neumann architecture, instruction set architecture, memory hierarc
 - [JF Bastien "Just-in-Time Compilation"](https://youtu.be/tWvaSkgVPpA)
 - [Bob Steagall "The Structure of a Program"](https://youtu.be/3KoXeegncrs)
 - [Amos (fasterthanlime) "Making our own executable packer"](https://fasterthanli.me/series/making-our-own-executable-packer)
+- [Miguel Young de la Sota "Everything You Never Wanted To Know About Linker Script"](https://mcyoung.xyz/2021/06/01/linker-script/)
 
 ## Abstract Machine
 Keywords: undefined behavior, implementation-defined behavior, Rust ownership/lifetimes, memory safety, strict aliasing, C/C++ volatile
