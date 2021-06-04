@@ -140,6 +140,7 @@ Keywords: scheduling, preemption, context switch, address space, virtual memory,
 - [NICTA, UNSW, Open Kernel Labs, ANU "seL4: Formal Verification of an OS Kernel"](http://www.sigops.org/s/conferences/sosp/2009/papers/klein-sosp09.pdf)
 - [Andrew Tanenbaum "MINIX 3: a Modular, Self-Healing POSIX-compatible Operating System"](https://youtu.be/bx3KuE7UjGA)
 - [Andrew Baumann, Jonathan Appavoo, Orran Krieger "A fork() in the road"](https://www.microsoft.com/en-us/research/uploads/prod/2019/04/fork-hotos19.pdf)
+- [Amit Levy, Bradford Campbell, Branden Ghena, Daniel B. Giffin, Pat Pannuto, Prabal Dutta, Philip Levis "Multiprogramming a 64 kB Computer Safely and Efficiently"](https://sing.stanford.edu/site/publications/levy17-tock.pdf)
 
 ## Research
 - [Lalith Suresh "Low-level advice for systems research"](https://lalith.in/2020/09/27/Low-Level-Advice-For-Systems-Research/)
