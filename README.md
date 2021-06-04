@@ -51,6 +51,7 @@ Keywords: undefined behavior, implementation-defined behavior, Rust ownership/li
 - [Ralf Jung ""What The Hardware Does" is not What Your Program Does: Uninitialized Memory"](https://www.ralfj.de/blog/2019/07/14/uninit.html)
 - [Ralf Jung "Pointers Are Complicated II, or: We need better language specs"](https://www.ralfj.de/blog/2020/12/14/provenance.html)
 - [Ralf Jung "Two Kinds of Invariants: Safety and Validity"](https://www.ralfj.de/blog/2018/08/22/two-kinds-of-invariants.html)
+- [Miguel Young de la Sota "The Taxonomy of Pointers"](https://mcyoung.xyz/2021/05/24/ptr-taxonomy/)
 - [Ulrich Drepper "What Every Programmer Should Know About Memory"](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
 - [CopperSpice "C++ Memory Model"](https://youtu.be/KgzjxfYaScU)
 - [Herb Sutter "atomic Weapons: The C++ Memory Model and Modern Hardware"](https://herbsutter.com/2013/02/11/atomic-weapons-the-c-memory-model-and-modern-hardware/)
