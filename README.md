@@ -43,7 +43,7 @@ Keywords: von Neumann architecture, instruction set architecture, memory hierarc
 - [Miguel Young de la Sota "Everything You Never Wanted To Know About Linker Script"](https://mcyoung.xyz/2021/06/01/linker-script/)
 
 ## Abstract Machine
-Keywords: undefined behavior, implementation-defined behavior, Rust ownership/lifetimes, memory safety, strict aliasing, C/C++ volatile
+Keywords: undefined behavior, memory model, pointer provenance, implementation-defined behavior, Rust ownership/lifetimes, memory safety, strict aliasing, C/C++ volatile
 - [Bob Steagall "The Abstract Machine"](https://youtu.be/ZAji7PkXaKY)
 - [Patrice Roy "Which Machine Am I Coding To?"](https://youtu.be/KoqY50HSuQg)
 - [Niall Douglas "Elsewhere Memory (C++20 Abstract Machine) + Virtual Memory"](https://youtu.be/Djw6aY0VhwI)
@@ -57,7 +57,7 @@ Keywords: undefined behavior, implementation-defined behavior, Rust ownership/li
 - [Herb Sutter "atomic Weapons: The C++ Memory Model and Modern Hardware"](https://herbsutter.com/2013/02/11/atomic-weapons-the-c-memory-model-and-modern-hardware/)
 - [Hans Boehm "Using weakly ordered C++ atomics correctly"](https://www.youtube.com/watch?v=M15UKpNlpeM)
 - [Paul McKenney "C++ Atomics: The Sad Story of memory_order_consume: A Happy Ending At Last?"](https://www.youtube.com/watch?v=ZrNQKpOypqU)
-- [Russ Cox "Hardware Memory Models"](https://research.swtch.com/hwmm)
+- [Russ Cox "Memory Models"](https://research.swtch.com/mm)
 
 ## Security/Cryptography
 Keywords: threat model, principle of least priviledge, Kerckhoffs's principle, confidentiality, data integrity, authentication, non-repudiation, computational hardness, vulnerabilities, buffer overflow, side-channel attack
