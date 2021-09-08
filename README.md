@@ -92,6 +92,7 @@ Keywords: cache locality, zero-copy, data oriented design, benchmarking, SIMD
 - [Mike Acton "Data-Oriented Design and C++"](https://youtu.be/rX0ItVEVjHc)
 - [Mike Acton "Building a Data-Oriented Future"](https://youtu.be/u8B3j8rqYMw)
 - [Marek Majkowski "Kernel Bypass"](https://blog.cloudflare.com/kernel-bypass/)
+- [Nick Fitzgerald "Always Bump Downwards"](https://fitzgeraldnick.com/2019/11/01/always-bump-downwards.html)
 
 ## Scalability
 - [Bryan Cantrill "The Soul of a New Machine: Rethinking the Computer"](https://youtu.be/vvZA9n3e5pc)
