@@ -99,7 +99,6 @@ Keywords: cache locality, zero-copy, data oriented design, benchmarking, SIMD
 
 ## Concurrency & Asynchrony
 Keywords: multithreading, race condition, synchronization, deadlock, starvation, linearizability, memory ordering, shared mutable state, fiber, coroutine, async/await
-- [Arthur O'Dwyer "Concurrency"](https://youtu.be/F6Ipn7gCOsY)
 - [Ulrich Drepper "Futexes Are Tricky"](https://akkadia.org/drepper/futex.pdf)
 - [Filip Pizlo "Locking in WebKit"](https://webkit.org/blog/6161/locking-in-webkit/)
 - [Jon Gjengset "A Cool Concurrency Primitive in Rust"](https://youtu.be/eLNAMEoKAAc)
