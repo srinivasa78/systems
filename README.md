@@ -107,6 +107,7 @@ Keywords: multithreading, race condition, synchronization, deadlock, starvation,
 - [libuv Team "libuv"](https://libuv.org)
 - [Austin Clements "Proposal: Non-cooperative goroutine preemption"](https://go.googlesource.com/proposal/+/master/design/24543-non-cooperative-preemption.md)
 - [Aleksey Kladov "Spinlocks Considered Harmful"](https://matklad.github.io/2020/01/02/spinlocks-considered-harmful.html)
+- [Alain Kägi, Doug Burger, and James R. Goodman "Efficient Synchronization: Let Them Eat QOLB"](https://dl.acm.org/doi/pdf/10.1145/384286.264166)
 
 ## Functional Programming
 Keywords: referential transparency, algebraic datatypes, lambda expression, recursion, higher order function, persistent data structure, lazy evaluation, category theory
